@@ -1,0 +1,105 @@
+.brand-text {
+    color: #ffcc33 !important;
+}
+
+.brand-text i {
+    color: #ffcc33 !important;
+}
+
+.brand-bg,
+.sweet-alert button {
+    background-color: #ffcc33 !important;
+}
+
+.waves-effect.waves-brand  {
+    background-color: rgb(51,255,204);
+}
+
+.p-overlay {
+    background-color: rgba(234, 185, 46, 0.9);
+}
+
+
+.circle-loader .path {
+    stroke: #ffcc33;
+}
+
+
+.side-nav  li.current a,
+.side-nav  li a:hover {
+    border-bottom-color: #ffcc33;
+}
+
+.static-menu li i:hover,
+.static-menu li a:hover,
+.submenu-ul li a:hover,
+.home-title span,
+.about-subtitle,
+.person-about > a.btn-large,
+.about-social ul li a i,
+.skill-title,
+.skill-count,
+.single-widget ul li a,
+.single-post-content a,
+.share-post li a:hover,
+.com-title a,
+span.num {
+    color: #ffcc33;
+}
+
+.singel-hr-inner,
+.hr-wrap,
+.hrc:after,
+.thumb-slides-container.owl-theme .owl-controls .owl-page.active span,
+.blog-inner .card-content a.right:hover,
+.blog-inner .card-content a.right:focus,
+.contact-form .submit-btn:hover,
+.contact-form .submit-btn:focus,
+a.tags,
+.blog-inner .card-content a.right:active {
+    background-color: #ffcc33;
+}
+
+.contact-form .materialize-textarea:focus,
+.contact-form .input-box:focus {
+    border-color: #ffcc33;
+    box-shadow: 0px 1px 0px #ffcc33;
+}
+
+
+.single-post-content blockquote {
+    border-left: 5px solid #ffcc33;
+}
+
+@-webkit-keyframes color {
+    0%   {stroke: #ffcc33;}
+    20%  {stroke: #ffcc33;}
+    25%  {stroke: #ffcc33;}
+    45%  {stroke: #ffcc33;}
+    50%  {stroke: #ffcc33;}
+    70%  {stroke: #ffcc33;}
+    75%  {stroke: #ffcc33;}
+    95%  {stroke: #ffcc33;}
+}
+
+@keyframes color {
+    0%   {stroke: #ffcc33;}
+    20%  {stroke: #ffcc33;}
+    25%  {stroke: #ffcc33;}
+    45%  {stroke: #ffcc33;}
+    50%  {stroke: #ffcc33;}
+    70%  {stroke: #ffcc33;}
+    75%  {stroke: #ffcc33;}
+    95%  {stroke: #ffcc33;}
+}
+
+
+/* Add your CSS below */
+
+
+
+
+.menu-select [type="radio"]:checked + label:after {
+    border-color: #ffcc33;
+    background-color: #ffcc33;
+}
